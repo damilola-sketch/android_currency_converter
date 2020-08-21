@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="date">Fri 11th</string>
+    <string name="heading">Currency Converter</string>
+    <string name="board">board</string>
+    <string name="convert">Convert</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="image_background">image background</string>
+    <string name="country">Country</string>
+</resources>
